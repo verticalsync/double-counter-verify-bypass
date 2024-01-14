@@ -5,8 +5,7 @@ Double Counter bypass for Vencord.
 For double counter verification links inside of dms, right click the message and click "Double Counter Bypass"  
 For clicking the Verify green button in an embed, it'll auto verify.
 
-# Installation
-## Prerequisites
+# Prerequisites before install
 * Installed vencord from source.
 
 # Install
