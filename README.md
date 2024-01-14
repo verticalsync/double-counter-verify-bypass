@@ -1,5 +1,5 @@
 # Double Counter Verify Bypass
-Double Country bypass for Vencord.
+Double Counter bypass for Vencord.
 
 # Installation
 ## Prerequisites
